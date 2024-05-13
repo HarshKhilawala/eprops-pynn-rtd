@@ -19,6 +19,7 @@ Hi!👋🏻, I would begin with Thanking You🤗 for your time to read about my 
    *Fig. PyNN*
 
 I am **Harsh Khilawala**, currently pursuing MS in Computer Science at *Pace University, New York, USA*. I would be working towards my summer project: **Add support for E-Props to PyNN**.
+
 Also have great interest in the field of **Research and Development** in the domains not limited to *AI/ML, Computer Vision, Healthcare, Medical Imaging*. 
 
 
@@ -112,13 +113,14 @@ Week 16 (August 26 - August 31) [Final Week - Wrap Up!]
 Important Links (In-Progress)
 ===============
 
-- Link to Project Repository: `CerebStats <https://github.com/cerebunit/cerebstats>`_
-- Link to the PR which includes contributions made during GSoC'21: `Pull Request <https://github.com/cerebunit/cerebstats/pull/1>`_
-- Link to CerebStats Documentation: `CerebStats Documentation <https://cerebstats.readthedocs.io/en/latest/>`_
-- Link to GSoC'21 Project Report: `Project Report <https://drive.google.com/file/d/1_O5LT4Gfdy_PyB92JBTWsGdmf4oLv9TJ/view?usp=sharing>`_
-- Link to Data Tables generated from the results obtained by running validation tests against varying mock data:
-   - `Data Table 1 <https://drive.google.com/file/d/1fa2VxDfetTpj-MtQWCLGcXXdgncnRwmy/view?usp=sharing>`_
-   - `Data Table 2 <https://drive.google.com/file/d/15PxHdRSXDIBHtiFjoeJcds0SfqAYFHGq/view?usp=sharing>`_ 
-   - `Data Table 3 <https://drive.google.com/file/d/1SlDUzfV4oq8xyLyIiHA8m3t5lwu7XZMX/view?usp=sharing>`_
-   - `Data Table 4 <https://drive.google.com/file/d/1vHFAPrL7-7HMMemOdocr3bbHW6QVEX03/view?usp=sharing>`_
-- Link to Table for Theoretical calculation of various metrics: `Metrics Table <https://drive.google.com/file/d/1jEEf3u9PvDAC3PMlp71x5xK8aSzNaAnR/view?usp=sharing>`_
+- TBA
+.. - Link to Project Repository: `CerebStats <https://github.com/cerebunit/cerebstats>`_
+.. - Link to the PR which includes contributions made during GSoC'21: `Pull Request <https://github.com/cerebunit/cerebstats/pull/1>`_
+.. - Link to CerebStats Documentation: `CerebStats Documentation <https://cerebstats.readthedocs.io/en/latest/>`_
+.. - Link to GSoC'21 Project Report: `Project Report <https://drive.google.com/file/d/1_O5LT4Gfdy_PyB92JBTWsGdmf4oLv9TJ/view?usp=sharing>`_
+.. - Link to Data Tables generated from the results obtained by running validation tests against varying mock data:
+..    - `Data Table 1 <https://drive.google.com/file/d/1fa2VxDfetTpj-MtQWCLGcXXdgncnRwmy/view?usp=sharing>`_
+..    - `Data Table 2 <https://drive.google.com/file/d/15PxHdRSXDIBHtiFjoeJcds0SfqAYFHGq/view?usp=sharing>`_ 
+..    - `Data Table 3 <https://drive.google.com/file/d/1SlDUzfV4oq8xyLyIiHA8m3t5lwu7XZMX/view?usp=sharing>`_
+..    - `Data Table 4 <https://drive.google.com/file/d/1vHFAPrL7-7HMMemOdocr3bbHW6QVEX03/view?usp=sharing>`_
+.. - Link to Table for Theoretical calculation of various metrics: `Metrics Table <https://drive.google.com/file/d/1jEEf3u9PvDAC3PMlp71x5xK8aSzNaAnR/view?usp=sharing>`_
