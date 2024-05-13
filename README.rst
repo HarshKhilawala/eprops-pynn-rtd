@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+E-Props integration to PyNN (Weekly Reports)
+=============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository contains the weekly reports of the work done during the Summer 2024 project "E-Props integration to PyNN".
