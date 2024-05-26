@@ -26,15 +26,17 @@ Also have great interest in the field of **Research and Development** in the dom
 Week 1 (May 13 - May 18)
 =========================
 
-- TBA
-- TBA
-- TBA
-- TBA
+- Get an overview of PyNN to understand its reason of existence. 🌲
+- Setup weekly meeting calls on Zoom. 💻
+- Create rtd(readthedocs) website with the help of Sphinx for weekly updates. 📜
+- Setup development evironment (Ubuntu) on a local device suitable for development of PyNN. 🛠️
 
 Week 2 (May 20 - May 25)
 ==========================
 
-- TBA
+- Learn fundamentals of Leaky integrate-and-fire models. 🔬
+- Get hands-on with NEST Simulator Tutorials - Part 1 and Part 2. 🧠
+- Get started with NEURON Simulator. 
 
 Week 3 (May 27 - June 1)
 ==========================
