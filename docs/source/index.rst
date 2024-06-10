@@ -41,12 +41,17 @@ Week 2 (May 20 - May 25)
 Week 3 (May 27 - June 1)
 ==========================
 
-- TBA
+- Learn about Simulators which are supported by PyNN implementation.
+- Get Hands-On with NEURON Simulator to get started.
+- Get Hands-On with Brian Simulator to get started.
 
 Week 4 (June 3 - June 8)
 =========================
 
-- TBA
+- Get started with PyNN as to understand its reason of existence. 🌲
+- Get Hands-On with PyNN basic tutorial.
+- Learn about the structure of PyNN and its implementation. 📂
+- Reproduce NEST Simulation Examples with PyNN. 🧮
 
 
 Week 5 (June 10 - June 15)
