@@ -59,12 +59,12 @@ Week 5 (June 10 - June 15)
 - Request review for NEST native examples.
 - Request help/guide to complete Kobayashi Neuron Model
 
-Week 6 (June 17 - June 22)
-==========================
+Week 6 (June 17 - June 22) [Break]
+===================================
 - Off on Break (PhD applications and visit)
 
-Week 7 (June 24 - June 29)
-==========================
+Week 7 (June 24 - June 29) [Break]
+===================================
 - Off on Break (Rejuvenate and conference)
 
 Week 8 (July 1 - July 6)
